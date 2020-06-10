@@ -1,1 +1,1 @@
-# Caricature
+# Caricature (Android App)
